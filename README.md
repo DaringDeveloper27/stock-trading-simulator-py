@@ -61,7 +61,4 @@ stock_market_simulator/
 ## Good next upgrades
 
 - Add a graphical dashboard with Streamlit.
-- Add OHLCV charts and percentage returns.
-- Add fractional shares and order types.
-- Add a second provider with a documented quote API for explicitly real-time or delayed quotes.
-- Add a backtesting engine and compare simulated outcomes with historical data.
+
